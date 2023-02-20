@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LemonadeApp</string>
+    <string name="der">Коснитесь лимонного дерева, чтобы выбрать лимон.</string>
+    <string name="lemon">Продолжайте постукивать по лимону, чтобы выжать его.</string>
+    <string name="stl">Разлейте лимонад, чтобы выпить его.</string>
+    <string name="pust">Постучите по пустому стакану, чтобы начать снова.</string>
 </resources>
